@@ -154,6 +154,15 @@ border: 0;
 background-color:#ffffff;
 }
 
+#bikewatch{
+  background-color:var(--light-blue);
+  color: var(--white);
+  font-size: 14px;
+  border-radius: 3px;
+  border: none;
+
+}
+
 
 .featurette img{
 width:70%;
@@ -227,10 +236,10 @@ margin:2px;
       }
 
      
+  
   .card, .row, img {
   margin:2px;
   }
-  
   
 
   
