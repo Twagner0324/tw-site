@@ -155,11 +155,15 @@ background-color:#ffffff;
 }
 
 #bikewatch{
-  background-color:var(--light-blue);
-  color: var(--white);
+  background-color:none;
+  color: var(--light-blue);
   font-size: 14px;
-  border-radius: 3px;
+  font-style: italic;
+  border-radius: none;
   border: none;
+  text-decoration: none;
+  cursor: pointer;
+  outline: none;
 
 }
 
@@ -241,6 +245,15 @@ margin:2px;
   margin:2px;
   }
   
+
+  #bikewatch{
+    background-color:var(--light-blue);
+    color: var(--white);
+    font-size: 14px;
+    border-radius: none;
+    border: none;
+  
+  }
 
   
   }
